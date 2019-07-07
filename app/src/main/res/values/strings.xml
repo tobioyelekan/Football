@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Football</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="competition_fragment_label">Competition</string>
+    <string name="menu_item_competition">competition</string>
+    <string name="field">field</string>
+    <string name="title_activity_competition_detail">CompetitionDetail</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="action_settings">Settings</string>
+    <string name="tab_table_label">Table</string>
+    <string name="tab_fixtures_label">Fixtures</string>
+    <string name="tab_label_teams">Teams</string>
+    <string name="label_empty_league_table">table not available for this league</string>
+    <string name="fixtures_not_available">Fixtures not available yet</string>
+    <string name="team_status">Teams will be selected soon, check back</string>
+</resources>
